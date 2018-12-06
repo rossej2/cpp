@@ -1,7 +1,7 @@
 
 /* Description: This program excepts 2 user inputed numbers and a simple arithmetic. 
                 For this I plan to add support for addition, subtract, multiplication,
-			          subtraction and maybe even exponents.
+		subtraction and maybe even exponents.
 */
 
 #include <iostream>
