@@ -1,6 +1,7 @@
 /* Description: A basic factorial cpp program. User will input an integer value and the program
                 will print out that integers factorial value. A factorial of 5 for example is 
                 5x4x3x2x1 which is 120. Factorial of 0 is 1.
+*/
 
 #include <iostream>
 using namespace std;
