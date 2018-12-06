@@ -41,6 +41,11 @@ int main(void)
 	{
 		result = userA / userB;
 	}
+	else if(operation == '/' && userB == 0.0) // prints error message b/c you cannot divide by zero
+	{
+		cout << "ERR: Divide by 0";
+		return 0;
+	}
 	else if(operation == '^') // exponent
 	{
 		result = pow(userA, userB);
