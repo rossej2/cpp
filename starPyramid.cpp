@@ -1,6 +1,7 @@
 /* Description: User enters an integer value. Output is a pyramid comprised of only
                 spaces and asterisks. The user input will determine the number of
                 asterisks that make up the base of the pyramid
+*/
 
 #include <iostream>
 using namespace std;
