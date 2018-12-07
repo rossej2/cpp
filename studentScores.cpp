@@ -1,16 +1,3 @@
-/*==============================================================
-Author: Jack Rosse
-Modified By:
-Date: 11/11/16
-
-Course: CSC 215-04
-File: studentScores.cpp
-Rev#: 
-Description: Users enters 10 scores between 0 and 100 and
-			 the program will insert these into an array. Then
-			 it will tell you how many students got an A,B,C,D
-			 or F and the grade distribution as a percentage.
-==============================================================*/
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -43,6 +30,7 @@ void numOfLetterGrades(int& a, int& b, int& c, int& d, int& f, vector<double> gr
 		}
 	}
 }
+
 int main(void) 
 {
 	vector<double> grades(10);
