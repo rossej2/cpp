@@ -1,7 +1,7 @@
 /* Description: This program will prompt the user for a double
-			 value that will represent a percent grade from
-			 zero to one hundred. There will be no rounding so
-			 a 89.9% is still a 'B+';
+		value that will represent a percent grade from
+		zero to one hundred. There will be no rounding so
+		a 89.9% is still a 'B+';
 */
 
 #include <iostream>
